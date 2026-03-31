@@ -2,17 +2,17 @@
 
 📌 Overview
 
-The Spam Email Detection System is a machine learning-based web application designed to classify emails as Spam or Not Spam (Ham). The system analyzes the content of emails using Natural Language Processing (NLP) techniques and trained machine learning models to provide accurate and real-time predictions.
+The Spam Email detection system is a machine learning based web application designed to classify emails as Spam or not spam . The system analyzes the content of emails using natural language processing (NLP) techniques and trained machine learning models to provide accurate and real-time predictions.
 
 This project is built using Python, Streamlit, and Scikit-learn, offering an interactive and user-friendly interface for detecting spam emails efficiently.
 
 🚀 Features
 
-🔍 Real-time email classification (Spam / Not Spam)
+🔍 Real-time email classification (spam / not spam)
 
 📊 Confidence score display for predictions
 
-🧠 Multiple ML models (Naïve Bayes, Logistic Regression, SVM)
+🧠 Multiple ML models (naive bayes, logistic regression, SVM)
 
 🧹 Text preprocessing (cleaning, tokenization, normalization)
 
@@ -26,9 +26,9 @@ This project is built using Python, Streamlit, and Scikit-learn, offering an int
 
 🛠️ Technologies Used
 
-Programming Language: Python
+Programming language: Python
 
-Frontend Framework: Streamlit
+Frontend framework: Streamlit
 
 Libraries:
 
@@ -36,7 +36,7 @@ Pandas
 
 NumPy
 
-Scikit-learn
+Scikit learn
 
 Matplotlib
 
@@ -71,11 +71,11 @@ Results are displayed with confidence score and metrics
 
 📊 Models Used
 
-Multinomial Naïve Bayes
+Multinomial naive bayes
 
-Logistic Regression
+Logistic regression
 
-Linear Support Vector Machine (SVM)
+Linear support vector machine (SVM)
 
 ⚠️ Limitations
 
@@ -100,3 +100,7 @@ Improve UI/UX design
 👨‍💻 Author
 
 Siya Panwar
+
+Branch: CSE AIML
+
+VIT Bhopal
